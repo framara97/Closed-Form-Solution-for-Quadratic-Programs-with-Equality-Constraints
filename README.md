@@ -1,0 +1,1 @@
+# Closed-Form-Solution-for-Quadratic-Programs-with-Equality-Constraints
